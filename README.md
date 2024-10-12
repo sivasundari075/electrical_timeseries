@@ -8,3 +8,6 @@ How to use:
     - csv files should be in public
 - Fill the .env.local file with bucket name and token from influxdb
 - npm run dev
+
+
+![plot](./Screenshot.png)
